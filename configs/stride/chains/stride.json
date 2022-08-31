@@ -1,9 +1,9 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "wind",                      ## cüzdan İsmimizi Yazalım
+    "key": "wind",                      
     "chain-id": "STRIDE-TESTNET-4",
-    "rpc-addr": "http://127.0.0.1:26657", ## Stride RPC Yazalım
+    "rpc-addr": "http://127.0.0.1:26657", 
     "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
