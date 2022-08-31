@@ -1,9 +1,9 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "wind",                      ## cüzdan İsmimizi Yazalım
+    "key": "wind",                      
     "chain-id": "GAIA",
-    "rpc-addr": "http://127.0.0.1:23657", ## Gaia RPC Yazalım
+    "rpc-addr": "http://127.0.0.1:23657", 
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
